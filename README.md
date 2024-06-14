@@ -15,7 +15,7 @@
 - **배포**:
     - AWS EC2를 통해 웹사이트를 배포했습니다.
     - AWs Routes3을 통해 도메인을 연결하여 사용자들이 쉽게 접근할 수 있도록 했습니다.
--  To-Deep Learning 발표: 프로젝트 결과를 To-Deep Leaming 커뮤니티에 발표하여 공유했습니다.
+-  **To-Deep Learning 발표**: 프로젝트 결과를 To-Deep Leaming 커뮤니티에 발표하여 공유했습니다.
 > 배운 점 / 느낀 점
 - 컴퓨터 비전 분야의 첫 도전: 이번 프로젝트를 통해 CNN(Convolutional Neural Network)에 대한 기본적인 이해를 습득했습니다.
 - 모델 Output 처리 방법 습득: 컴퓨터 비전 모델의 출력을 원하는 방식으로 시각화하고 처리하는 방법을 익혔습니다.
